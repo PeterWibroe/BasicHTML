@@ -8,10 +8,25 @@ body {
   background-color: #fff;
 }
 
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10px;
+  background-color: #fff;
+  height: 20%;
+  border-bottom: #cecece 3px solid;
+  box-shadow: 0 0 0px 4px rgb(0,0,0,0.1);
+}
+
 li, a, button {
   font-family: "MainRoboto";
   font-weight: 400;
   font-size: 16px;
   color: #38434f;
   text-decoration: none;
+}
+
+nav {
+
 }
