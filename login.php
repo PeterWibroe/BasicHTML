@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Kemo's butik - Loginside</title>
+    <title>Kemos butik Loginside</title>
   </head>
   <body>
 
