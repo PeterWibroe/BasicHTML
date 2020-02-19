@@ -2,9 +2,22 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Kemos butik Loginside</title>
+    <title>Kemo's butik</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width">
   </head>
   <body>
-
+    <header>
+      <nav>
+        <ul class="nav__links">
+          <li><a href="#">Butik</a></li>
+          <li><a href="#">Tilbud</a></li>
+          <li><a href="https://www.youtube.com/watch?v=KiLOCD-sXaE" target="_blank">Hjælp</a></li>
+        </ul>
+      </nav>
+      <a class="cta" href="login.php"><button>Login</button></a>
+    </header>
+    <div class="container">
+    </div>
   </body>
 </html>
